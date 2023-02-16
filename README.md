@@ -1,2 +1,2 @@
 # Miro-Board-Positioning
-How to handle authentication to external applications from inside a Miro app.
+Miro whiteboards are a collaborative visualization tool. You can use them in two ways: via the Miro UI and the Miro REST API. This article demonstrates how to create a Node.js application that uses the Miro REST API to position new sticky notes on a whiteboard.
